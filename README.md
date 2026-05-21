@@ -1,6 +1,6 @@
 # o-escriba-de-campo
 
-Este é o meu projeto de captura diária dentro do Per Ankh. 
+Este é o meu projeto de captura diária dentro do meu Universo de Memória. 
 
 Ele serve para registrar o que chega rápido no dia a dia e depois reler com calma, organizar melhor e transformar em nota, sala, vínculo ou memória. 
 
